@@ -1,0 +1,19 @@
+{
+  "name": "gits-test",
+  "version": "1.0.0",
+  "description": "GITS Indonesia technical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhsatrio/gits-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhsatrio/gits-test/issues"
+  },
+  "homepage": "https://github.com/muhsatrio/gits-test#readme"
+}
