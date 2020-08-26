@@ -7,7 +7,7 @@ Assignment for GITS Indonesia. The step to run code is
 2. Just run .js file with
 
 ```
-node *.js
+node (nameJSFile).js
 ```
 
 Enjoy!! :)
